@@ -3,7 +3,7 @@ Comparing Groups: Randomization and Bootstrap Methods Using R
 
 <br />
 
-<img src="http://media.wiley.com/product_data/coverImage300/05/EHEP0023/EHEP002305.jpg" alt="Book cover." width="40%" style="display: block; margin-left: auto; margin-right: auto" />
+<img src="http://media.wiley.com/product_data/coverImage300/05/EHEP0023/EHEP002305.jpg" alt="Book cover." width="200" style="display: block; margin-left: auto; margin-right: auto" />
 
 <br />
 
