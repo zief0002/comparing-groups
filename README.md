@@ -1,14 +1,14 @@
 Comparing Groups: Randomization and Bootstrap Methods Using R 
 =========
 
+<br />
+
+<img src="http://media.wiley.com/product_data/coverImage300/05/EHEP0023/EHEP002305.jpg" alt="Book cover." width="40%" style="display: block; margin-left: auto; margin-right: auto" />
+
+<br />
 
 This GitHub repository is the home for the book [Comparing Groups: Randomization and Bootstrap Methods Using R](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002305.html). It includes the datasets used in the book, associated codebooks, and R scripts. You can access Wiley's page for the book [here](http://www.wiley.com/WileyCDA/WileyTitle/productCd-EHEP002305.html).
 
-<br />
-
-<div style="text-align: center"><img src="http://media.wiley.com/product_data/coverImage300/05/EHEP0023/EHEP002305.jpg" width="200"/></div>
-
-<br />
 
 ---
 
