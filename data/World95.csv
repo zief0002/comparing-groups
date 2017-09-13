@@ -1,0 +1,75 @@
+Country,Pop,Urban,Religion,LifeExpF,LifeExpM,Literacy,Babymort,Region
+Afghanistan,20500,18,Muslim,44,45,29,168,3
+Bangladesh,125000,16,Muslim,53,53,35,106,3
+Cambodia,10000,12,Buddhist,52,50,35,112,3
+China,1205200,26,Taoist,69,67,78,52,3
+Hong Kong,5800,94,Buddhist,80,75,77,5.8,3
+India,911600,26,Hindu,59,58,52,79,3
+Indonesia,199700,29,Muslim,65,61,77,68,3
+Japan,125500,77,Buddhist,82,76,99,4.4,3
+Malaysia,19500,43,Muslim,72,66,78,25.6,3
+N. Korea,23100,60,Buddhist,73,67,99,27.7,3
+Pakistan,128100,32,Muslim,58,57,35,101,3
+Philippines,69800,43,Catholic,68,63,90,51,3
+S. Korea,45000,72,Protstnt,74,68,96,21.7,3
+Singapore,2900,100,Taoist,79,73,88,5.7,3
+Taiwan,20944,71,Buddhist,78,72,91,5.1,3
+Thailand,59400,22,Buddhist,72,65,93,37,3
+Vietnam,73100,20,Buddhist,68,63,88,46,3
+Botswana,1359,25,Tribal,66,60,72,39.3,4
+Burkina Faso,10000,15,Animist,50,47,18,118,4
+Burundi,6000,5,Catholic,50,46,50,105,4
+Cameroon,13100,40,Animist,58,55,54,77,4
+Cent. Afri.R,3300,47,Protstnt,44,41,27,137,4
+Ethiopia,55200,12,Muslim,54,51,24,110,4
+Gabon,1300,46,Catholic,58,52,61,94,4
+Gambia,959,23,Muslim,52,48,27,124,4
+Kenya,28200,24,Catholic,55,51,69,74,4
+Liberia,2900,45,Animist,57,54,40,113,4
+Morocco,28600,46,Muslim,70,66,50,50,4
+Nigeria,98100,35,Muslim,57,54,51,75,4
+Rwanda,8400,6,Catholic,46,43,50,117,4
+Senegal,8700,40,Muslim,58,55,38,76,4
+Somalia,6667,24,Muslim,55,54,24,126,4
+South Africa,43900,49, ,68,62,76,47.1,4
+Tanzania,29800,21,Animist,45,41,46,110,4
+Uganda,19800,11,Catholic,43,41,48,112,4
+Zambia,9100,42,Protstnt,45,44,73,85,4
+Armenia,3700,68,Orthodox,75,68,98,27,5
+Azerbaijan,7400,54,Muslim,75,67,98,35,5
+Bahrain,600,83,Muslim,74,71,77,25,5
+Egypt,60000,44,Muslim,63,60,48,76.4,5
+Iran,65600,57,Muslim,67,65,54,60,5
+Iraq,19900,72,Muslim,68,65,60,67,5
+Israel,5400,92,Jewish,80,76,92,8.6,5
+Jordan,3961,68,Muslim,74,70,80,34,5
+Kuwait,1800,96,Muslim,78,73,73,12.5,5
+Lebanon,3620,84,Muslim,71,67,80,39.5,5
+Libya,5500,82,Muslim,65,62,64,63,5
+Oman,1900,11,Muslim,70,66, ,36.7,5
+Saudi Arabia,18000,77,Muslim,70,66,62,52,5
+Syria,14900,50,Muslim,68,65,64,43,5
+Turkey,62200,61,Muslim,73,69,81,49,5
+U.Arab Em.,2800,81,Muslim,74,70,68,22,5
+Uzbekistan,22600,41,Muslim,72,65,97,53,5
+Argentina,33900,86,Catholic,75,68,95,25.6,6
+Barbados,256,45,Protstnt,78,73,99,20.3,6
+Bolivia,7900,51,Catholic,64,59,78,75,6
+Brazil,156600,75,Catholic,67,57,81,66,6
+Chile,14000,85,Catholic,78,71,93,14.6,6
+Colombia,35600,70,Catholic,75,69,87,28,6
+Costa Rica,3300,47,Catholic,79,76,93,11,6
+Cuba,11100,74,Catholic,78,74,94,10.2,6
+Domincan R.,7800,60,Catholic,70,66,83,51.5,6
+Ecuador,10700,56,Catholic,73,67,88,39,6
+El Salvador,5800,44,Catholic,69,64,73,41,6
+Guatemala,10300,39,Catholic,67,62,55,57,6
+Haiti,6500,29,Catholic,47,43,53,109,6
+Honduras,5600,44,Catholic,70,65,73,45,6
+Mexico,91800,73,Catholic,77,69,87,35,6
+Nicaragua,4100,60,Catholic,67,61,57,52.5,6
+Panama,2600,53,Catholic,78,71,88,16.5,6
+Paraguay,5200,48,Catholic,75,72,90,25.2,6
+Peru,23650,70,Catholic,67,63,85,54,6
+Uruguay,3200,89,Catholic,77,71,96,17,6
+Venezuela,20600,91,Catholic,76,70,88,28,6
